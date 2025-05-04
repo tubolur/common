@@ -8,28 +8,24 @@
 - [ ] perform full security audit
 
 </details>
-
 <details>
    <summary> <h2><b> DNS RESOLVER </b></h2> </summary>
 
 - [ ] write and test
 
 </details>
-
 <details>
    <summary> <h2><b> DNS SERVER </b></h2> </summary>
 
 - [ ] write and test
 
 </details>
-
 <details>
    <summary> <h2><b> SQL SERVER </b></h2> </summary>
 
 - [ ] write and test
 
 </details>
-
 <details>
    <summary> <h2><b> YUNOHOST </b></h2> </summary>
 
@@ -37,7 +33,6 @@
 - [ ] owncast
 
 </details>
-
 <details>
    <summary> <h2><b> OPEN STAGE CONTROL SERVER </b></h2> </summary>
 
