@@ -5,7 +5,6 @@
 - [x] working
 - [x] no clear data visible in wireshark monitor
 - [ ] perform full security audit
-
 </details>
 <details>
    <summary> <h2><b> DNS RESOLVER </b></h2> </summary>
