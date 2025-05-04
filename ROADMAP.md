@@ -11,6 +11,8 @@
 
 - [x] docker ( **warning** only root in debian )
 - [x] podman
+- [x] HTTPSServer container
+- [x] Arch Repo container  
 </details>
 <details><summary> <h2><b> LINUX PACKAGE REPOSITORY  ✅ (partial) </b></h2> </summary>
    
