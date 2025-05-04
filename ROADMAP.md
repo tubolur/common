@@ -32,3 +32,8 @@
 - [ ] write and test
 
 </details>
+<details><summary> <h2><b> VIDEO STREAM ( CAMERA / OBS / VDO.NINJA ) REROUTE </b></h2> </summary>
+
+- [ ] write and test
+
+</details>
