@@ -4,12 +4,20 @@
    
 - [x] working
 - [x] no clear data visible in wireshark monitor
+- [x] deploy via container
 - [ ] perform full security audit
 </details>
 <details><summary> <h2><b> CONTAINERS ✅ (partial) </b></h2> </summary>
 
 - [x] docker ( **warning** only root in debian )
 - [x] podman
+</details>
+<details><summary> <h2><b> LINUX PACKAGE REPOSITORY ⭕ </b></h2> </summary>
+- [ ] retrieve repository package files
+- [ ] host as https server
+- [x] test http local archlinux custom repo
+- [ ] test https local archlinux custom repo
+- [ ] test https remote archlinux custom repo
 </details>
 <details><summary> <h2><b> DNS RESOLVER ⭕ </b></h2> </summary>
 
