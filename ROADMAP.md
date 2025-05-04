@@ -17,7 +17,7 @@
 </details>
 <details><summary> <h2><b> LINUX PACKAGE REPOSITORY  ✅ (partial) </b></h2> </summary>
    
-- [ ] retrieve repository package files
+- [x] retrieve repository package files from zip files on a server using wget
 - [x] host as https server
 - [x] test http local archlinux custom repo
 - [x] test https local archlinux custom repo
