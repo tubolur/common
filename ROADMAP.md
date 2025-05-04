@@ -5,6 +5,7 @@
 - [x] working
 - [x] no clear data visible in wireshark monitor
 - [x] deploy via container
+- [x] simple message board implementation 
 - [ ] perform full security audit
 </details>
 <details><summary> <h2><b> CONTAINERS ✅ (partial) </b></h2> </summary>
