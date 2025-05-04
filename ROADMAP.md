@@ -12,7 +12,7 @@
 - [x] docker ( **warning** only root in debian )
 - [x] podman
 </details>
-<details><summary> <h2><b> LINUX PACKAGE REPOSITORY ⭕ </b></h2> </summary>
+<details><summary> <h2><b> LINUX PACKAGE REPOSITORY  ✅ (partial) </b></h2> </summary>
    
 - [ ] retrieve repository package files
 - [x] host as https server
@@ -21,7 +21,7 @@
 - [x] test https remote archlinux custom repo
 - [x] create valid self signed key
 - [ ] create valid authority-signed key
-- [ ] dockerfile
+- [x] dockerfile
 </details>
 <details><summary> <h2><b> DNS RESOLVER ⭕ </b></h2> </summary>
 
