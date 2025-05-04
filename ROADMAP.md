@@ -15,10 +15,13 @@
 <details><summary> <h2><b> LINUX PACKAGE REPOSITORY ⭕ </b></h2> </summary>
    
 - [ ] retrieve repository package files
-- [ ] host as https server
+- [x] host as https server
 - [x] test http local archlinux custom repo
-- [ ] test https local archlinux custom repo
-- [ ] test https remote archlinux custom repo
+- [x] test https local archlinux custom repo
+- [x] test https remote archlinux custom repo
+- [x] create valid self signed key
+- [ ] create valid authority-signed key
+- [ ] dockerfile
 </details>
 <details><summary> <h2><b> DNS RESOLVER ⭕ </b></h2> </summary>
 
