@@ -13,7 +13,10 @@
 - [x] docker ( **warning** only root in debian )
 - [x] podman
 - [x] HTTPSServer container
-- [x] Arch Repo container  
+- [x] Arch Repo container
+- [x] podman ui (podman-tui) dont forget to run with `systemctl start --user  podman.socket`
+- [x] docker ui (lazydocker) 
+- [ ] DNS server (to be fixed)
 </details>
 <details><summary> <h2><b> LINUX PACKAGE REPOSITORY  ✅ (partial) </b></h2> </summary>
    
