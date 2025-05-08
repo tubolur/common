@@ -28,7 +28,8 @@
 </details>
 <details><summary> <h2><b> DNS RESOLVER ⭕ </b></h2> </summary>
 
-- [ ] write and test
+- [x] try with https://github.com/MatthewVance/unbound-docker
+- [x] dockerfile 
 
 </details>
 <details><summary> <h2><b> DNS SERVER ⭕ </b></h2> </summary>
